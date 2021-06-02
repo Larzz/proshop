@@ -1,0 +1,5 @@
+{
+    "search.showLineNumbers": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "editor.formatOnSave": true
+}
