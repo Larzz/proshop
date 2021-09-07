@@ -2,7 +2,7 @@
   "name": "proshop",
   "version": "1.0.0",
   "description": "Mern Shopping App",
-  "main": "server.js",
+  "main": "backend/server.js",
   "type": "module",
   "scripts": {
     "start": "node backend/server",
@@ -15,8 +15,10 @@
   "dependencies": {
     "axios": "^0.20.0",
     "concurrently": "^6.2.0",
+    "core-util-is": "^1.0.3",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "mongoose": "^6.0.5",
     "nodemon": "^2.0.7"
   }
 }
